@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/AzureDevOpsKurs/Shadi/_apis/build/status/GitHubShadi.ContosoAir?branchName=master)](https://dev.azure.com/AzureDevOpsKurs/Shadi/_build/latest?definitionId=14&branchName=master)
 
 # Microsoft.Github CI Demo
 
